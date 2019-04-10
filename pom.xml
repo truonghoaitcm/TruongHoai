@@ -40,7 +40,7 @@
             <manifest>
               <addClasspath>true</addClasspath>
               <classpathPrefix>lib/</classpathPrefix>
-              <mainClass>imic.buoi2.object.Chicken</mainClass>
+              <mainClass>imic.buoi10.object.Chicken</mainClass>
             </manifest>
           </archive>
         </configuration>
